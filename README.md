@@ -2,7 +2,7 @@
 Full recreation (1:1) of the Silent Hill (4.1.2) Lobby in Dead by Daylight
 
 V1.00 of the Silent Hill Lobby mod is available in the Releases tab (.pak file) <br>
-UE project will possibly be released at a later date.
+Please note this is a heavily WIP version of the lobby and is very unfinished.
 
 **Credits:**
 
