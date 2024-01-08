@@ -4,7 +4,7 @@ Full recreation (1:1) of the Silent Hill (4.1.2) Lobby in Dead by Daylight
 V1.1 of the Silent Hill Lobby mod is available in the Releases tab (.pak file) <br>
 Please note this is a WIP version of the lobby and is missing a few fixes.
 
-NOTE: If BHVR removes very specific blueprints/materials, it's possible something in the lobby may break (textures not displaying / meshes missing) <br>
+NOTE: If BHVR removes very specific blueprints/materials, it's possible something in the lobby may break (missing textures/meshes) <br>
 If this happens I will try my best to recreate the blueprint from scratch.
 
 V1.1 UPDATE:
