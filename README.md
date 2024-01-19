@@ -13,6 +13,10 @@ V1.1 UPDATE:
 - added missing light & flickering light on the Silent Hill sign
 - improved Barbed Wire material
 
+V1.2 UPDATE:
+
+- improved lighting (most noticeable on Low settings / r.ShadowQuality set to 0). The lighting is now EXACTLY 1:1 as in 4.1.2
+
 In a future update I hope to add: 
 
 - Silent Hill Menu Music
