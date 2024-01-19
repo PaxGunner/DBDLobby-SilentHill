@@ -21,7 +21,6 @@ In a future update I hope to add:
 
 - Silent Hill Menu Music
 - Update Ground Material to 3.6.0 / 4.1.2 (currently, it is using 3.0.0)
-- Use 1:1 SkyLight method
 
 **Credits:**
 
