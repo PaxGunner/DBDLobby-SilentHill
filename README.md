@@ -1,6 +1,6 @@
 # DBDLobby-SilentHill
 
-KNOWN ISSUES: camera positions are glitched and show from an incorrect angle - this will be updated eventually but I am really burnt out on modding.
+**KNOWN ISSUES: camera positions are glitched and show from an incorrect angle - this will be updated eventually but I am really burnt out on modding.**
 
 Full recreation (1:1) of the Silent Hill (4.1.2) Lobby in Dead by Daylight
 
