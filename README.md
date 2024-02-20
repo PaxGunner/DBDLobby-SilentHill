@@ -1,11 +1,8 @@
 # DBDLobby-SilentHill
 
-**KNOWN ISSUES: camera positions are glitched and show from an incorrect angle.** <br>
-**this will be updated eventually but I am really burnt out on modding so it may take a while.**
-
 Full recreation (1:1) of the Silent Hill (4.1.2) Lobby in Dead by Daylight
 
-V1.3 of the Silent Hill Lobby mod is available in the Releases tab (.pak file) <br>
+V1.3.1 of the Silent Hill Lobby mod is available in the Releases tab (.pak file) <br>
 Please note this is a WIP version of the lobby and is missing a few fixes.
 
 NOTE: If BHVR removes very specific blueprints/materials, it's possible something in the lobby may break (missing textures/meshes) <br>
@@ -17,14 +14,15 @@ V1.1 UPDATE:
 - added missing light & flickering light on the Silent Hill sign
 - improved Barbed Wire material
 
-V1.2 UPDATE:
+V1.3.1 UPDATE:
 
-- improved lighting (most noticeable on Low settings / r.ShadowQuality set to 0). The lighting is now EXACTLY 1:1 as in 4.1.2
-
-In a future update I hope to add: 
-
-- Silent Hill Menu Music
-- Update Ground Material to 3.6.0 / 4.1.2 (currently, it is using 3.0.0)
+- added missing T_SkyLight2 texture cube from Killer_PostProcessVolume
+- added missing PostProcessVolume3_0 from Lobby_Lighting
+- added missing AmbientCubemap & AmbientCubemap Intesity
+- fixed new lobby camera system overriding old camera positions
+- fixed crashing & updated lobby to be compatible with 7.5.0+
+- readded missing FogGradient components & certain fog settings that got reset when I reinstalled UE
+- enabled missing checkbox that caused shadows to not spawn in the lobby
 
 **Credits:**
 
