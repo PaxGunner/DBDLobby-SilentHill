@@ -22,7 +22,7 @@ V1.3.1 UPDATE:
 - fixed new lobby camera system overriding old camera positions
 - fixed crashing & updated lobby to be compatible with 7.5.0+
 - readded missing FogGradient components & certain fog settings that got reset when I reinstalled UE
-- enabled missing checkbox that caused shadows to not spawn in the lobby
+- enabled missing lighting value that caused shadows to not spawn in the lobby
 
 **Credits:**
 
