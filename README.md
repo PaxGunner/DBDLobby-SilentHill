@@ -1,5 +1,5 @@
 # DBDLobby-SilentHill 
-# [OUTDATED / NO LONGER BEING UPDATED]
+# [OUTDATED / NO LONGER BEING UPDATED - QUIT DBD MODDING]
 
 Full recreation (1:1) of the Silent Hill (4.1.2) Lobby in Dead by Daylight
 
